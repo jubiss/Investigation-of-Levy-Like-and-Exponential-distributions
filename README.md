@@ -1,2 +1,3 @@
-# Investigation-of-Levy-Like-and-Exponential-distributions
-A guideline to determine data distributions
+# Hyperexponential as an alternative Long Tail distribution
+
+In this project I will add the hyperexponentials to a comparision of the better distribution to fit long tail movement data. This is a classical problem in a series of areas that deal with stochastic dynamics, here I will focus in the problem of animal movement. For animal movement the distribution that has been the most popular for fittting diverse animal movement data is the Lévy (Power Law) Distribution. This fit ability goes along with the classical paper ... from Ghandi, that shows the Lévy distribution as the most efficient distribution that an animal could use to find food, this paper give origign to the levy flight foraging hypothesis.
